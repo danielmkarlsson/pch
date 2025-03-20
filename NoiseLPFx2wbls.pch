@@ -1,0 +1,99 @@
+[Header]
+Version=Nord Modular patch 3.0
+0 127 0 127 12 0 0 1 692 3 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[/Header]
+[ModuleDump]
+1
+1 4 1 29
+2 31 1 17
+3 53 1 19
+4 67 1 15
+8 92 2 21
+6 31 2 19
+7 81 1 27
+9 81 2 27
+5 92 1 21
+10 68 2 11
+11 18 2 14
+13 66 2 17
+14 76 1 13
+[/ModuleDump]
+[ModuleDump]
+0
+[/ModuleDump]
+[CurrentNoteDump]
+64 0 0 64 0 0 
+[/CurrentNoteDump]
+[CableDump]
+1
+0 3 1 0 2 0 1
+0 5 2 0 2 0 1
+0 8 1 0 3 0 1
+0 5 1 0 3 0 1
+0 9 0 0 8 0 1
+0 8 2 0 6 0 1
+0 7 0 0 5 0 1
+0 1 0 0 7 0 1
+0 1 1 0 9 0 1
+0 13 0 0 14 0 1
+2 14 0 0 10 1 1
+1 3 0 0 13 0 1
+2 13 1 0 4 0 1
+[/CableDump]
+[CableDump]
+0
+[/CableDump]
+[ParameterDump]
+1
+1 4 3 127 0 0 
+2 31 1 127 
+4 67 1 60 
+8 92 7 53 64 127 0 35 2 0 
+6 31 1 127 
+7 81 1 127 
+9 81 1 127 
+5 92 7 53 64 127 0 35 2 0 
+10 68 2 64 1 
+11 18 2 127 0 
+13 66 5 0 127 0 127 0 
+14 76 1 0 
+[/ParameterDump]
+[ParameterDump]
+0
+[/ParameterDump]
+[MorphMapDump]
+0 0 0 0
+1 11 1 3 0
+1 2 0 3 54
+1 6 0 3 -69
+[/MorphMapDump]
+[KnobMapDump]
+1 14 0 3
+[/KnobMapDump]
+[CustomDump]
+1
+8 1 0 
+5 1 0 
+[/CustomDump]
+[CustomDump]
+0
+[/CustomDump]
+[NameDump]
+1
+1 2 Output
+2 Noise
+3 Sample&Hold
+4 NoteDetect
+8 FilterF
+6 Noise
+7 Amplifier
+9 Amplifier
+5 FilterF
+10 ClkGen
+11 X-Fade
+13 ControlMixer
+14 OnOff
+[/NameDump]
+[NameDump]
+0
+[/NameDump]
